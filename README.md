@@ -21,6 +21,12 @@ or if using python 3
 sudo pip3 install megaoptim
 ```
 
+Note: If you see error `ImportError: No module named PIL`, you need to install `Pillow` as well:
+
+```
+sudo pip install pillow
+```
+
 ## Usage
 
 Available parameters:
